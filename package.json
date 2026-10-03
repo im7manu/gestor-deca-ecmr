@@ -1,0 +1,17 @@
+{
+  "name": "deca-ecmr",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gestión DeCA y eCMR creado con <3 por its7manu.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:local": "node scripts/start-local.mjs"
+  },
+  "engines": { "node": ">=22.13" },
+  "dependencies": {
+    "express": "^5.2.1",
+    "pdfkit": "^0.20.2",
+    "qrcode": "^1.5.4"
+  }
+}

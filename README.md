@@ -79,4 +79,4 @@ Para garantizar un entorno impenetrable en producción, se han incorporado las s
 - Los documentos PDF oficiales generados se almacenan en `data/pdf/<token>.pdf`.
 - La URL pública accesible mediante QR `/d/<token>` permite la comprobación en carretera por las autoridades de tráfico e inspección de transportes sin necesidad de credenciales.
 
-Creado con ❤️ por its7manu
+Creado con ❤️ por im7manu

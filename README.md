@@ -1,3 +1,4 @@
+<img width="75" height="75" alt="Icono de Gestor DeCA y eCMR" src="https://github.com/user-attachments/assets/40182b76-2a7d-40a5-872e-007ea6214417" /> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" xmlns:c2pa="http://c2pa.org/manifest"> <rect width="64" height="64" rx="12" fill="#0f6cbd"/><path d="M18 16h14a16 16 0 0 1 0 32H18z" fill="#fff"/></svg>
 # Gestor DeCA y eCMR 
 
 Plataforma integral para la emisión, gestión y trazabilidad documental de **DeCA** (Documento Electrónico de Control Administrativo) y **eCMR** (Carta de porte electrónica internacional), con interfaz moderna, backend en Node.js, base de datos nativa SQLite y arquitectura de seguridad blindada para despliegues en producción.

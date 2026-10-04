@@ -1,8 +1,9 @@
-# DeCA · eCMR — Interfaz Lovable y Seguridad Reforzada
+# Gestor DeCA y eCMR 
 
 Plataforma integral para la emisión, gestión y trazabilidad documental de **DeCA** (Documento Electrónico de Control Administrativo) y **eCMR** (Carta de porte electrónica internacional), con interfaz moderna, backend en Node.js, base de datos nativa SQLite y arquitectura de seguridad blindada para despliegues en producción.
 
 ---
+<img width="960" alt="Interfaz inicial de Gestor DeCA y eCMR" src="https://github.com/user-attachments/assets/1bf3c7a7-28a6-4056-b6eb-798301ed5f1b" />
 
 ## 🚀 Primer Arranque y Registro Inicial (Setup Wizard)
 
